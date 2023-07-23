@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on making WebAssembly the future of distributed application development
+
+💬 You can read my personal blog [here](https://kevinhoffman.blog)
+
 <!--
 **autodidaddict/autodidaddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
