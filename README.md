@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on making WebAssembly the future of distributed application development
+🔭 I’m currently working on making Synadia Cloud _the_ place for easily building and deploying NATS-based applications
 
 💬 You can read my personal blog [here](https://kevinhoffman.blog)
 
