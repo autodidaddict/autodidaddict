@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on making Synadia Cloud _the_ place for easily building and deploying NATS-based applications
+🔭 I'm a distributed systems nerd, and my driving loop is _learn, build, teach_.
 
 💬 You can read my personal blog [here](https://kevinhoffman.blog)
 
