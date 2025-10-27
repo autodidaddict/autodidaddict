@@ -1,4 +1,7 @@
 ### Hi there 👋
+_autodidact(n)_ - A self-taught person.
+
+_autodidaddict(n)_ - A person addicted to being self-taught.
 
 🔭 I'm a distributed systems nerd, and my driving loop is _learn, build, teach_.
 
